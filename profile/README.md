@@ -3,7 +3,6 @@
 
 ## Members
 - [SuperEvilLuke](https://github.com/SuperEvilLuke) - Owner
-- [xDLiveRBLX](https://github.com/xdlivecat) - Member
 - [Lezetho](https://github.com/lezetho) - Member
 
 ---
