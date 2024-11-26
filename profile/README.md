@@ -1,4 +1,4 @@
- <h1><img src="https://cdn.discordapp.com/icons/852220533499494411/a_42fe7b380932f46e769a8c648cc0a975.gif" alt="Embotic logo" align="center">                                       Embotic</h1>
+<img src="https://cdn.discordapp.com/icons/852220533499494411/a_42fe7b380932f46e769a8c648cc0a975.gif" alt="Embotic logo" align="center">
 
 We're the Embotic developer team. We make projects and put them as open source to show our work and help fellow developers with their needs. **Embotic** is the #1 free host for game servers, bot servers, web servers, database servers, and more. We develop things like Pterodactyl Purge Bots, custom Pterodactyl eggs, Discord Bots, custom Pterodactyl addons, custom Ctrlpanel addons, and much more. We're like you developers, looking for a place to put our stuff out and to help smaller developers. We usually code in **Javascript** however you may see some of our projects in other coding languages like **Koltin**, **Dockerfile**, and more.
 
