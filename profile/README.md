@@ -10,4 +10,8 @@ We're the Embotic developer team. We make projects and put them as open source t
 ### 📌 Quick Links
 > [![](https://dcbadge.limes.pink/api/server/embotic)](https://discord.gg/embotic) <br>
 > [![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/embotic-xyz) <br>
-> [![](https://img.shields.io/website?url=https%3A%2F%2Fdash.embotic.xyz)](https://dash.embotic.xyz)
+> Dashboard - [![](https://img.shields.io/website?url=https%3A%2F%2Fdash.embotic.xyz)](https://dash.embotic.xyz)
+> Panel - [![](https://img.shields.io/website?url=https%3A%2F%2Fpanel.embotic.xyz)](https://panel.embotic.xyz)
+> Client - [![](https://img.shields.io/website?url=https%3A%2F%2Fclient.embotic.xyz)](https://client.embotic.xyz)
+> Status Page - [![](https://img.shields.io/website?url=https%3A%2F%2Fstatus.embotic.xyz)](https://status.embotic.xyz)
+
