@@ -14,7 +14,7 @@ We're the Embotic developer team. We make projects and put them as open source t
 
 ---
 ### 📌 Quick Links
-> **𝕯𝖎𝖘𝖈𝖔𝖗𝖉** - [![](https://dcbadge.limes.pink/api/server/embotic)](https://discord.gg/D6C3MKrVFg) <br>
+> **𝕯𝖎𝖘𝖈𝖔𝖗𝖉** - [![](https://dcbadge.limes.pink/api/server/D6C3MKrVFg)](https://discord.gg/D6C3MKrVFg) <br>
 > **𝕲𝖎𝖙𝕳𝖚𝖇** - [![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/embotic-xyz) <br>
 > **𝕯𝖆𝖘𝖍𝖇𝖔𝖆𝖗𝖉** - [![](https://img.shields.io/website?url=https%3A%2F%2Fdash.embotic.xyz)](https://dash.embotic.xyz) <br>
 > **𝕻𝖆𝖓𝖊𝖑** - [![](https://img.shields.io/website?url=https%3A%2F%2Fpanel.embotic.xyz)](https://panel.embotic.xyz) <br>
