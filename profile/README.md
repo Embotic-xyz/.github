@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/icons/852220533499494411/a_42fe7b380932f46e769a8c648cc0a975.gif" alt="Embotic logo">
+  <img src="https://github.com/user-attachments/assets/2b2ec1f2-e10f-4329-a793-a96ac0748a93" />
 </p>
 <p align="center">
   <h1 align="center">𝕰𝖒𝖇𝖔𝖙𝖎𝖈</h1>
